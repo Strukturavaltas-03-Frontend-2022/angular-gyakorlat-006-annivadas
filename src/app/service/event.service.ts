@@ -19,11 +19,11 @@ export class EventService {
     },
 
     {
-      name: 'Chrismas',
+      name: 'Christmas',
       date: '2022-12-31',
       time: '20:30',
       location: {
-        address: 'Üllői út 3.',
+        address: 'Tátra u. 11.',
         city: 'Budapest',
         country: 'Hungary',
       },
@@ -34,8 +34,8 @@ export class EventService {
       date: '2022-10-25',
       time: '17:30',
       location: {
-        address: 'Üllői út 3.',
-        city: 'Budapest',
+        address: 'Vasvári u. 7.',
+        city: 'Szekszárd',
         country: 'Hungary',
       },
     },
